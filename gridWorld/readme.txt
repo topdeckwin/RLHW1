@@ -1,0 +1,1 @@
+run main.py with python 2.7, it print the ansers in order
